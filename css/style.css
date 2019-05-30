@@ -1,0 +1,19 @@
+.important{
+  color: red;
+  width: 50%;
+  font-style: italic;
+  text-align: left;
+}
+
+.lessimportant {
+  color: blue;
+  width: 75%;
+  text-align: center;
+}
+
+.notimportant {
+  color: #00aa00;
+  text-align: right;
+  width: 50%;
+  font-style: italic;
+}
