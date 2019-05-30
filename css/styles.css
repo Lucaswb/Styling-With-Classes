@@ -12,3 +12,26 @@
   font-size: 50px;
   color: #00ff00;
 }
+
+img {
+  float: left;
+}
+
+.sidebar {
+  width: 20%;
+  float: right;
+  background-color: yellow;
+}
+
+.column {
+  width: 300px;
+  float: left;
+}
+
+.my-class {
+  margin: 50px;
+  border: 2px solid green;
+  padding: 40px;
+  background-color: skyblue;
+
+}
